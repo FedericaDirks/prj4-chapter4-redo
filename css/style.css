@@ -4,13 +4,13 @@
 
 .body{
     background-color: #008000;
-    background-image: url("../../../../Desktop/prj4chapter4 4/Images/Minimalist-Crumpled-Paper-Simple-Background-Image.jpg");
+    background-image: url("../Images/Minimalist-Crumpled-Paper-Simple-Background-Image.jpg");
     background-size: 100%;
     background-repeat: repeat;
 }
 
 .header{
-	background-image: url("../../../../Desktop/prj4chapter4 4/images/catsheader.jpg");
+	background-image: url("../images/catsheader.jpg");
   background-repeat: repeat-x;
   background-size: contain;
   width: 100%;
