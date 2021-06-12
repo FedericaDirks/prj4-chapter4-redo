@@ -4,13 +4,13 @@
 
 .body{
     background-color: #008000;
-    background-image: url("../Images/Minimalist-Crumpled-Paper-Simple-Background-Image.jpg");
+    background-image: url("../../../../Desktop/prj4chapter4 4/Images/Minimalist-Crumpled-Paper-Simple-Background-Image.jpg");
     background-size: 100%;
     background-repeat: repeat;
 }
 
 .header{
-	background-image: url("../images/catsheader.jpg");
+	background-image: url("../../../../Desktop/prj4chapter4 4/images/catsheader.jpg");
   background-repeat: repeat-x;
   background-size: contain;
   width: 100%;
@@ -25,7 +25,7 @@
   -webkit-text-stroke: 3px black;
 }
 
-.cats{color: #86af49; text-decoration: underline; text-align: center; text-shadow: 1px 1px 2px black;}
+.cats{color: #86af49; text-decoration: underline; text-align: center; text-shadow: 1px 1px 1px black;}
 
 .Federica{color: #86af49; text-decoration: underline; text-align: center;}
 
