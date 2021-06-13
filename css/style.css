@@ -7,6 +7,7 @@
     background-image: url("../Images/Minimalist-Crumpled-Paper-Simple-Background-Image.jpg");
     background-size: 100%;
     background-repeat: repeat;
+	
 }
 
 .header{
@@ -39,9 +40,9 @@
 	margin: 0px 100px;
   text-align: center;
   background-color: #b5e7a0;
-	border: 2px #d5e1df;
+	border: 3px solid pink;
   min-height: 152px;
-	padding: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px; 
 }
 
 #image{opacity: 0.6;
